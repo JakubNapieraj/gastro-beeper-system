@@ -2,8 +2,6 @@ package com.github.jakubnapieraj;
 
 
 import java.io.IOException;
-import java.time.LocalDateTime;
-import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Timer;
 

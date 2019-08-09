@@ -20,7 +20,7 @@ public class SavingToFile extends TimerTask {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        ;
+
 
     }
 
